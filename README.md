@@ -1,4 +1,4 @@
 tools-settings
 ==============
 
-Config files for varius tools
+Config files for various tools
